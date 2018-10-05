@@ -1,5 +1,15 @@
 # 구글 인터뷰 대학(Google Interview University)
 
+> 나는 원래 이것을 소프트웨어 엔지니어가 되기 위한 짧은 연구 목록으로 만들었다.
+> 그러나 지금 당신이 볼수 있듯이 이 목록은 매우 커졌다. 이 목록을 숙지 한 후, 
+> [나는 아마존에 소프트웨어 엔지니어로 채용됐다](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> 를 보면 당신은 아마 내가 한 것처럼 많이 공부할 필요는 없을 것이다. 어쨌든 당신이 필요로 하는 모든 것은 여기에 있다.
+>
+> 여기에 나열된 목록들은 거의 모든 소프트웨어 회사의 인터뷰를 준비하는데에 도움이 될것이다.
+> 아마존, 페이스북, 구글, 마이크로소프트 같은 거대 기업을 포함.
+>
+> *행운을 빈다!*
+
 번역:
 - [중국어](translations/README-cn.md)
 - 진행 중인 번역:
@@ -230,7 +240,7 @@ I'm in the queue right now. Hope to interview soon.
 
 ## 당신은 충분히 똑똑합니다
 - 구글 엔지니어들은 똑똑합니다. 하지만 그들 조차도 자신들의 지적 능력면에 대해서 불안감을 갖기 일쑤입니다.
-- [천재 프로그래머의 미스터리](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [천재 프로그래머에 대한 미신(迷信)](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [위험한 홀로서기: 테크 산업의 보이지 않는 괴물들의 전쟁](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## 구글에 대해
